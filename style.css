@@ -1,0 +1,23 @@
+body{
+    background-color: lightcyan;
+    margin: 0;
+}
+hr {
+    border-style: none;
+    border-top: dotted;
+    border-width: 6px;
+    color: rgb(193, 197, 204);
+    width: 15%;
+}
+h1{
+    color: white;
+}
+h3{
+    color:white;
+}
+.div{
+    background-color: lightblue;
+    text-align: center;
+    height: 100vh;
+}
+
